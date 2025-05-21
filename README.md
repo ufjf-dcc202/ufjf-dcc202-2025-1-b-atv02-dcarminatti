@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cZ-_EX3t)
+# 🧑‍💻 [DCC202] Desenvolvimento Web 
+
+###  📌 Atividade 02
+- Crie uma página simples HTML com uma estrutura completa.
+- Adicione as URLs do repositório e da implantação no github pages. 
+
+### 👻 GitHub Pages
+- https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv01-dcarminatti/
