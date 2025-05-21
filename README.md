@@ -5,4 +5,4 @@
 - Adicione as URLs do repositório e da implantação no github pages. 
 
 ### 👻 GitHub Pages
-- https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv01-dcarminatti/
+- https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv02-dcarminatti/
